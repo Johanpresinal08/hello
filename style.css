@@ -1,12 +1,12 @@
 /* Fondo general */
 body{
-  background-image: url('descarga.gif');
-  background-size: cover;
-  background-position: center 20%; /* mueve la imagen hacia abajo */
-  background-repeat: no-repeat;
-  font-family: Arial, Helvetica, sans-serif;
-  color: white;
+    background-color: rgb(0, 22, 88);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-align: center;
+    padding-top: 80px;
 }
+
 
 
 /* Titulo */
@@ -57,4 +57,5 @@ button{
 #reiniciar:hover{
     background-color: rgb(200, 60, 0);
 }
+
 
